@@ -1,1 +1,2 @@
 # Unit2-01-HTML-JS-HelloWorld
+[![GitHub's Super Linter](https://github.com/CarolynWP/Unit2-01-HTML-JS-HelloWorld/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/CarolynWP/Unit2-01-HTML-JS-HelloWorld/actions)
